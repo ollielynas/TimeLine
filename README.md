@@ -14,3 +14,5 @@ the cursor will move back and forward and to win you will need to press spacebar
 Eg.
 
 `-----[|]-----`
+
+to run the code copy it from the [main.py](/main.py) by either copy and pasting it or downloading it 
